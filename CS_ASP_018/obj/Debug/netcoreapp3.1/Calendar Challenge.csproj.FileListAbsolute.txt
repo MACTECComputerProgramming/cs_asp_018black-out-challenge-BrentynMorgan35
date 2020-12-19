@@ -1,0 +1,19 @@
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\bin\Debug\netcoreapp3.1\Calendar Challenge.exe
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\bin\Debug\netcoreapp3.1\Calendar Challenge.deps.json
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\bin\Debug\netcoreapp3.1\Calendar Challenge.runtimeconfig.json
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\bin\Debug\netcoreapp3.1\Calendar Challenge.runtimeconfig.dev.json
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\bin\Debug\netcoreapp3.1\Calendar Challenge.dll
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\bin\Debug\netcoreapp3.1\Calendar Challenge.pdb
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge.csprojAssemblyReference.cache
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge_MarkupCompile.cache
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge_MarkupCompile.lref
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge.g.resources
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge.AssemblyInfoInputs.cache
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge.AssemblyInfo.cs
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge.csproj.CoreCompileInputs.cache
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge.dll
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge.pdb
+C:\Users\brent\Documents\GitHub\cs_asp_018black-out-challenge-kkiser21\Calendar Challenge\obj\Debug\netcoreapp3.1\Calendar Challenge.genruntimeconfig.cache
